@@ -1,0 +1,1 @@
+ForgePulse Blue-Green Deployment is a local DevOps project demonstrating near-zero-downtime releases and fast rollback using Docker, Nginx, and a simple Flask analytics website. No AWS services required.
